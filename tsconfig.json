@@ -3,6 +3,10 @@
     "watch": true,
     "removeComments": true,
     "noImplicitAny": true,
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "outDir": "dist",
+    "module": "commonjs",
+    "sourceMap": true,
+    "strict": true
   }
 }
