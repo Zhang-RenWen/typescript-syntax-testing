@@ -9,6 +9,9 @@ sudo npm install tsc -g
 安裝專案模組
 npm install --save-dev typescript tslint @types/node
 
+安裝風格管理
+yarn add --dev prettier
+
 初始化 tslint 模組
 ./node_modules/.bin/tslint --init
 

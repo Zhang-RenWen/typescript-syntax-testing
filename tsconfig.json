@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "watch": true,
+    "lib": ["es2020"],
     "removeComments": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
@@ -8,7 +9,7 @@
     "module": "commonjs",
     "sourceMap": true,
     "strict": true,
-    "target": "es2016"
+    "target": "es2020"
   },
   "included": ["src"]
 }
